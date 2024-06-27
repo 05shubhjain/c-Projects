@@ -1,1 +1,1 @@
-# c-Projects
+Welcome to the C++ Projects Repository! This repository contains a collection of C++ projects demonstrating various programming concepts, algorithms, and data structures. Whether you're a beginner looking to learn C++ or an experienced developer seeking advanced projects, you'll find something of interest here.
